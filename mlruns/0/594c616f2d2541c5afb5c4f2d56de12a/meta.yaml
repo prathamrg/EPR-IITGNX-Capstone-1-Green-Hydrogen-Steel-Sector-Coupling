@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/Masters/IITGNX%20-%20Energy%20Policy%20and%20Regulation/Capstone%20Project/Final%20Simulation/mlruns/0/594c616f2d2541c5afb5c4f2d56de12a/artifacts
+end_time: 1746291559675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 594c616f2d2541c5afb5c4f2d56de12a
+run_name: LCOS x Green Hydrogen ML Model_v4
+run_uuid: 594c616f2d2541c5afb5c4f2d56de12a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746291532160
+status: 3
+tags: []
+user_id: pratham
